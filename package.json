@@ -1,0 +1,18 @@
+{
+  "name": "@techigh/fetch-api-handler",
+  "version": "0.0.1",
+  "description": "fetch - get, post, put, delete api handler",
+  "main": "useFetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch",
+    "api"
+  ],
+  "author": " @techigh <techigh.b@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@techigh/web-storage-handler": "^0.0.1"
+  }
+}
