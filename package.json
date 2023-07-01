@@ -3,9 +3,7 @@
   "version": "0.0.2",
   "description": "fetch - get, post, put, delete api handler",
   "main": "useFetch.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "fetch",
     "api",
