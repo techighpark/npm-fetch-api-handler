@@ -1,6 +1,6 @@
 {
   "name": "@techigh/fetch-api-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fetch - get, post, put, delete api handler",
   "main": "useFetch.js",
   "scripts": {
