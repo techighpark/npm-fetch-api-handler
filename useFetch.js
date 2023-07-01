@@ -1,5 +1,5 @@
 const { getCookie } = require("@developers/lib/useCookies");
-// TODO header to paramater
+// TODO header to paramateraa
 
 const useFetch = {}
 
